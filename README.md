@@ -1,3 +1,5 @@
+_This is downstream from https://github.com/timcharper/mcli. Please refer to original repo if you want to use this. I will most like break stuff in my fork_
+
 # Mesos CLI (+ others)
 
 Mesos CLI is a light-weight tool for reading and interpreting the responses of various mesos http endpoints. It is written using bash 4, curl, and jq (1.5+).
